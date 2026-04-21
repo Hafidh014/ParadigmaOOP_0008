@@ -4,6 +4,7 @@ using namespace std;
 class mahasiswa{
     public:
         int nim;
-        string nama; 
+        string nama;
+        float nilai;
 };
 
